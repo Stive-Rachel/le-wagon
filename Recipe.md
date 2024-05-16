@@ -1,4 +1,4 @@
-**1- The url that we will use is: 🔗 https://recipes.lewagon.com/**
+**1. The url that we will use is: 🔗 https://recipes.lewagon.com/**
 What is the scheme, host and path of this url ?
 
 https://recipes.lewagon.com/recipes/3103
@@ -8,7 +8,7 @@ Host : recipes.lewagon.com ou lewagon.com
 Path : /recipes/3103
 
 
-**2- Use Insomnia to create an HTTP request from this url. What status code do you get?**
+**2. Use Insomnia to create an HTTP request from this url. What status code do you get?**
 Status code : 200
 
 
