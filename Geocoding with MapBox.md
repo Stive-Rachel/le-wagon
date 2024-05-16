@@ -30,7 +30,6 @@ If you nonetheless continue to experience issues, you can use 🔗 https://devel
 + path : /playground/geocoding/
 + query : search_text=Los Angeles
 
-Hint
 
 ### 6- Find out how to use Insomnia to get the coordinates of the city centre of "Paris".
 + coordinates: [
