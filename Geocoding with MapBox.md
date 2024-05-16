@@ -39,4 +39,4 @@ Hint
 				]
 
 ### 7- Find out how to use Insomnia to perform a reverse geocoding of your birthplace.
-+ Done
++ https://api.mapbox.com/geocoding/v5/mapbox.places/-61.53262407518599,16.239653341953243.json
