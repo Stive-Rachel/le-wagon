@@ -24,7 +24,7 @@ If you nonetheless continue to experience issues, you can use 🔗 https://devel
 ### 5- Go back to the geocoding API documentation and find the forward geocoding example “Los Angeles”. What are the verb, scheme, host, path and query parameters?
 ** https://docs.mapbox.com/playground/geocoding/?search_text=Los Angeles **
 
-+ verb :
++ verb : GET
 + scheme : https
 + host : docs.mapbox.com
 + path : /playground/geocoding/
