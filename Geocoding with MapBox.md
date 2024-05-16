@@ -33,7 +33,7 @@ If you nonetheless continue to experience issues, you can use 🔗 https://devel
 Hint
 
 ### 6- Find out how to use Insomnia to get the coordinates of the city centre of "Paris".
-"coordinates": [
++ coordinates: [
 					2.3483915,
 					48.8534951
 				]
