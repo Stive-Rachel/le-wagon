@@ -1,5 +1,4 @@
-## h2 Heading
-**1. The url that we will use is: 🔗 https://recipes.lewagon.com/**
+## 1-The url that we will use is: 🔗 https://recipes.lewagon.com/
 What is the scheme, host and path of this url ?
 
 https://recipes.lewagon.com/recipes/3103
@@ -9,18 +8,18 @@ Host : recipes.lewagon.com ou lewagon.com
 Path : /recipes/3103
 
 
-**2. Use Insomnia to create an HTTP request from this url. What status code do you get?**
+## 2- Use Insomnia to create an HTTP request from this url. What status code do you get?**
 Status code : 200
 
 
-**3- Use your web browser and go to 🔗 https://recipes.lewagon.com/, click on a specific recipe.**
+## 3- Use your web browser and go to 🔗 https://recipes.lewagon.com/, click on a specific recipe.**
 
 Look at the url you get. 
 What is the generic path for a recipe? https://recipes.lewagon.com/recipes/
 What is the code after? 2469
 
 
-**4- Use Insomnia and try to request a recipe page that does not exist.**
+## 4- Use Insomnia and try to request a recipe page that does not exist.**
 
 What is the status code you get? 404
 
