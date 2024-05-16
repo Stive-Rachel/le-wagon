@@ -3,9 +3,9 @@ What is the scheme, host and path of this url ?
 
 https://recipes.lewagon.com/recipes/3103
 
-Scheme : HTTPS 
-+Host : recipes.lewagon.com ou lewagon.com 
-+Path : /recipes/3103 
++ Scheme : HTTPS 
++ Host : recipes.lewagon.com ou lewagon.com 
++ Path : /recipes/3103 
 
 
 ### 2- Use Insomnia to create an HTTP request from this url. What status code do you get?**
