@@ -24,7 +24,7 @@ What is the code after? 2469
 What is the status code you get? 404
 
 
-**5- Go to the homepage and search for "chicken" in the search bar ?**
+## 5- Go to the homepage and search for "chicken" in the search bar ?**
 
 Has the url changed? yes
 
@@ -39,19 +39,19 @@ query=chicken
 
 
 
-**6- In Insomnia, make a GET API request on the last url that you obtained when searching for “chicken”. Put the parameters to the query tab instead of the url. What status code do you get?**
+## 6- In Insomnia, make a GET API request on the last url that you obtained when searching for “chicken”. Put the parameters to the query tab instead of the url. What status code do you get?**
 
 200
 
-**7- You now have a good understanding of query parameters!**
+## 7- You now have a good understanding of query parameters!**
 If you want to get results from the next page, which query parameter should you add?
 
 page=2
 
-**8- Use Insomnia to do the request.**
+## 8- Use Insomnia to do the request.**
 
 
-**9- What happens when you query the results on page 50? Is this what you expected?**
+## 9- What happens when you query the results on page 50? Is this what you expected?**
 The result show the page 1
 No i expected to see the page 50
 
