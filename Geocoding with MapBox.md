@@ -37,5 +37,8 @@ If you nonetheless continue to experience issues, you can use 🔗 https://devel
 					48.8534951
 				]
 
+  <img width="871" alt="image" src="https://github.com/Stive-Rachel/le-wagon-1692/assets/169066981/0880a6f5-b231-4dfb-8eec-7cdb3c7a0fd4">
+
+
 ### 7- Find out how to use Insomnia to perform a reverse geocoding of your birthplace.
 + https://api.mapbox.com/geocoding/v5/mapbox.places/-61.53262407518599,16.239653341953243.json
